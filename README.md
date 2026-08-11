@@ -123,7 +123,7 @@ Key preparation and modeling steps included:
 
 ### Discount Effectiveness Overview
 
-![Discount Effectiveness Overview](images/Overview.png)
+![Discount Effectiveness Overview]([images/Overview.png](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Overview.png))
 
 ### Product Analysis
 
