@@ -123,18 +123,18 @@ Key preparation and modeling steps included:
 
 ### Discount Effectiveness Overview
 
-![Discount Effectiveness Overview]([images/Overview.png](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Overview.png))
+![Discount Effectiveness Overview](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Overview.png)
 
 ### Product Analysis
 
-![Product Analysis](images/Product_Analysis.png)
+![Product Analysis](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Product_Analysis.png)
 
 ### Geographic Analysis
 
-![Geographic Analysis](images/Geographic_Analysis.png)
+![Geographic Analysis](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Geographic_Analysis.png)
 
 ### Discount Threshold Analysis
 
-![Discount Threshold Analysis](images/Discount_Threshold.png)
+![Discount Threshold Analysis](https://github.com/MaryamKazzemi/superstore-discount-profitability-analysis/blob/main/Discount_Threshold.png)
 
 ---
